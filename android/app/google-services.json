@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995904622845",
+    "firebase_url": "https://rootallyai-f1df5-default-rtdb.firebaseio.com",
+    "project_id": "rootallyai-f1df5",
+    "storage_bucket": "rootallyai-f1df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995904622845:android:910fbae04bce73a341ae94",
+        "android_client_info": {
+          "package_name": "com.example.rootally_ai_internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995904622845-qt9i3forelct0bl3gir9n099o4ppe384.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPsgF8GGRUCJkBcrJpUUMni4gq4Nc7qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995904622845-qt9i3forelct0bl3gir9n099o4ppe384.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
