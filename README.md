@@ -2,11 +2,7 @@
 
 A new Flutter project.
 
-
-
-https://user-images.githubusercontent.com/85029306/140078434-ff6533ee-7460-4f92-92e7-bf063e53df35.mp4
-
-
+https://user-images.githubusercontent.com/85029306/140078639-d9a45a98-4eaf-4521-b033-f2d2a9d49121.mp4
 
 ## Getting Started
 
